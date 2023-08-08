@@ -1,0 +1,35 @@
+.container {
+    flex-direction: column;
+    background-image: url(../images/bg-mobile.png);
+    background-size: cover;
+    background-position: 0;
+    padding-left: 0rem;
+    justify-content: center;
+}
+
+.logos {
+    width: 85%;
+    height: 18%;
+}
+
+.details-block {
+    width: 85%;
+    height: 18%;
+}
+
+.details {
+    padding: 1.5rem;
+    padding-top: 3rem;
+}
+
+.triangle{
+    display: none;
+}
+
+.usage-block{
+    width: 50%;
+    top: 100%;
+    right: 50%;
+    border-radius: 1rem;
+    transform: translate(50%,-50%);
+}
