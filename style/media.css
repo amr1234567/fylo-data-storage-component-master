@@ -22,14 +22,14 @@
     padding-top: 3rem;
 }
 
-.triangle{
+.triangle {
     display: none;
 }
 
-.usage-block{
+.usage-block {
     width: 50%;
     top: 100%;
     right: 50%;
     border-radius: 1rem;
-    transform: translate(50%,-50%);
+    transform: translate(50%, -50%);
 }
